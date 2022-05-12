@@ -1,5 +1,4 @@
 ### <h2> Hello there 👋👋 | My name is Felipe, welcome to my Profile!! </h2>
-<hr>
 - 🌱 I’m currently learning Bootstrap <br>
 - 📫 How to reach me: +55 11 93209-0857 <br>
 - 📚 I'm a Student at Universidade Nove de Julho (Currently 1st Semester) - located in São Paulo, Brazil.
