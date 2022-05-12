@@ -1,9 +1,8 @@
 ### Hi there 👋👋 | My name is Felipe, welcome to my GitHub !!
 <hr>
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning Bootstrap <br>
 - 📫 How to reach me: felipeffazandebrito@gmail.com
-
-
+- <hr>
 <div align="center">
   <a href="https://github.com/ffaZan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffaZan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
