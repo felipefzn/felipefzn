@@ -1,7 +1,7 @@
 ## Hello there 👋👋 | My name is Felipe, Welcome to my Profile!!
 - 🌱 I’m currently learning more about  *Java* <br>
 - 👨‍💻 I’m currently working on [Projeto Empreendedorismo](https://github.com/ffaZan/projetofacul)
-- 📚 I'm a Student at _Universidade Nove de Julho_ (Currently st Semester) - located in São Paulo, Brazil.
+- 📚 I'm a Student at _Universidade Nove de Julho_ (Currently 2st Semester) - located in São Paulo, Brazil.
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 
 <hr>
