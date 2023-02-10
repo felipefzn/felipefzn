@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning more about  *mysql* <br>
 - 📚 I'm a Student at _Universidade Nove de Julho_ (Currently 2st Semester) - located in São Paulo, Brazil.
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
-- 👨‍💻 I’m currently working on [Projeto em Sistemas (Mobile)](https://github.com/ffaZan/projeto_em_sistemas) 
+- 👨‍💻 I’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos) 
 
 <!-- <hr>
 <div style="float: left;">
