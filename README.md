@@ -4,13 +4,13 @@
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 - 👨‍💻 I’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos) 
 
-<!-- <hr>
+<hr>
 <div style="float: left;">
 <a href="https://github.com/ffaZan">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ffaZan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaZan&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-!-->  
+
 
   <hr>
   
