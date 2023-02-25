@@ -1,5 +1,5 @@
 ## Hello there 👋👋 | My name is Felipe, Welcome to my Profile!!
-- 🌱 I’m currently learning more about  *mysql* <br>
+- 🌱 I’m currently learning more about  *Sql Server and C#* <br>
 - 📚 I'm a Student at _Universidade Nove de Julho_ (Currently 2st Semester) - located in São Paulo, Brazil.
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 - 👨‍💻 I’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos) 
