@@ -1,6 +1,7 @@
 ## Hello there 👋👋 | My name is Felipe, Welcome to my Profile!!
 - 🌱 I’m currently learning more about  *Sql Server and C#* <br>
-- 📚 I'm a Student at _FIAP University_ (Currently 1st Semester) - located in São Paulo, Brazil.
+- 📚 I'm an Student at _FIAP University_ (Currently 1st Semester) - located in São Paulo, Brazil.
+- 🧠 I'm an intern at [E-Trind](https://etrind.com.br/) (Data Analyst and Technical Support)
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 - 👨‍💻 I’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos) 
 
