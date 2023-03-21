@@ -1,6 +1,6 @@
 ## Hello there 👋👋 | My name is Felipe, Welcome to my Profile!!
 - 🌱 I’m currently learning more about  *Sql Server and C#* <br>
-- 📚 I'm a Student at _Universidade Nove de Julho_ (Currently 2st Semester) - located in São Paulo, Brazil.
+- 📚 I'm a Student at _FIAP University_ (Currently 1st Semester) - located in São Paulo, Brazil.
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 - 👨‍💻 I’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos) 
 
@@ -15,8 +15,13 @@
   <hr>
   
 <div>
-  <h2> Languages and Tools: </h2>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
+  <h2> Languages and Tools I work with: </h2>
+<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> </code>
+<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </code>
+<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> </code>
+<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> </code>        
+     
+<!--<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/></code>
@@ -28,11 +33,8 @@
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/></code>
-<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/></code>
-
- <br><br>
-  Loading...📚 
+<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/></code>-->
+  <!--Loading...📚 -->
 </div>
   <hr>
 <div>
