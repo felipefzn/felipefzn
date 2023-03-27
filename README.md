@@ -1,4 +1,4 @@
-## Hello there 👋👋 | My name is Felipe, Welcome to my Profile!!
+## Hello there <img width="25px" height="25px" src="https://user-images.githubusercontent.com/73148019/144666718-3b38bc9c-f2b4-4028-acfb-4df434782a0a.gif"> | My name is Felipe, Welcome to my Profile!!
 - 🌱 I’m currently learning more about  *Sql Server and C#* <br>
 - 📚 I'm an Student at _FIAP University_ (Currently 3st Semester) - located in São Paulo, Brazil.
 - 🧠 I am also an intern at [E-Trind](https://etrind.com.br/) (Data Analyst and Technical Support)
@@ -21,10 +21,8 @@
 <code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </code>
 <code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> </code>
 <code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> </code>  
-<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> </code>  
-<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> </code>  
-<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-plain.svg" /> </code>  
-     
+
+    
 <!--<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
