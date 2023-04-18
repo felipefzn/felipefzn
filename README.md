@@ -11,6 +11,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ffaZan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaZan&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+  <h4>  NOTE: "Most used languages" and "GitHub Stats" does not indicate my skills level </h4>
   <hr>
 <div>
   <h2> Languages and Tools I work with: </h2>
