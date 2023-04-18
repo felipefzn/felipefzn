@@ -3,26 +3,20 @@
 - 📚 I'm an Student at _FIAP University_ (Currently 3st Semester) - located in São Paulo, Brazil.
 - 🧠 I am also an intern at [E-Trind](https://etrind.com.br/) (Data Analyst and Technical Support)
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
-- 👨‍💻 I’m currently working on [MysqL](https://github.com/ffaZan/mysql_estudos) 
-
+- 👨‍💻 I’m currently working on [Studying about C#](https://github.com/ffaZan/estudoscsharp) 
 <hr>
 <div style="float: left;">
 <a href="https://github.com/ffaZan">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ffaZan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffaZan&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-
   <hr>
-  
 <div>
   <h2> Languages and Tools I work with: </h2>
 <code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> </code>
 <code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> </code>
 <code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> </code>
-<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> </code>  
-
-    
+<code> <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> </code>     
 <!--<code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
