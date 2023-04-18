@@ -4,6 +4,7 @@
 - 🧠 I am also an intern at [E-Trind](https://etrind.com.br/) (Data Analyst and Technical Support)
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 - 👨‍💻 I’m currently working on [Studying about C#](https://github.com/ffaZan/estudoscsharp) 
+- 📖 You can take a look at my [curriculum](https://github.com/ffaZan/curriculum/blob/main/Felipe_Fazan.pdf) right here :)
 <hr>
 <div style="float: left;">
 <a href="https://github.com/ffaZan">
@@ -30,9 +31,6 @@
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/></code>-->
-  <h4>
-    You can take a look at my [Curriculum](https://github.com/ffaZan/curriculum) right here :)
-  </h4>
   <!--Loading...📚 -->
 </div>
   <hr>
