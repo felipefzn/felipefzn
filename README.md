@@ -1,6 +1,6 @@
 ## Hello there <img width="25px" height="25px" src="https://user-images.githubusercontent.com/73148019/144666718-3b38bc9c-f2b4-4028-acfb-4df434782a0a.gif"> | My name is Felipe, Welcome to my Profile!
 
-- 🌱 I’m currently learning more about  *Sql Server and C#* <br>
+- 🌱 I’m currently learning more about  *C# and .NET* <br>
 - 📚 I'm an Student at _FIAP University_ - located in São Paulo, Brazil.
 - 🧠 I am also an intern at [E-Trind](https://etrind.com.br/) (Data Analyst and Technical Support)
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
