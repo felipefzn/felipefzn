@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning more about  *C# and .NET* <br>
 - 📚 I'm an Student at _FIAP University_ - located in São Paulo, Brazil.
-- 🧠 I am also an intern at [E-Trind](https://etrind.com.br/) (Data Analyst and Technical Support)
+- 🧠 I am also an intern at [E-Trind](https://etrind.com.br/) (System Analyst and Technical Support)
 - 📫 How to reach me: *+55 11 93209-0857* OR Try my gmail, on the buttom below ⬇️ <br>
 - 👨‍💻 I’m currently working on [Studying about C#](https://github.com/ffaZan/estudoscsharp) 
 - 📖 You can take a look at my [curriculum](https://github.com/ffaZan/curriculum/blob/main/Felipe_Fazan.pdf) right here :)
