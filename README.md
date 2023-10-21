@@ -1,6 +1,6 @@
 ## Olá <img width="25px" height="25px" src="https://user-images.githubusercontent.com/73148019/144666718-3b38bc9c-f2b4-4028-acfb-4df434782a0a.gif"> | Meu nome é Felipe! Seja bem vindo ao meu Perfil!
 
-<p>Sou apaixonado por computadores e estou sempre em busca de conhecimentos na área de T.I. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e aproveitando meu tempo como estagiário em análise de sistema e suporte técnico.</p>
+<p>Estudante de ADS, com experiência em C#, ASP.NET e SQL. Colaborador ativo em projetos de desenvolvimento, focado na qualidade do código e eficiência das soluções. Comprometido com aprendizado contínuo e melhores práticas. Buscando oportunidades desafiadoras para crescer como um futuro desenvolvedor fullstack.</p>
 
 - 🌱 Estou aprendendo mais sobre  *C# e .NET* <br>
 - 📚 Estudo na Universidade _FIAP University_ - localizado em São Paulo, Brasil.
