@@ -8,7 +8,9 @@
 - 📫 Como falar comigo: *+55 11 93209-0857* ou tente meu e-mail, no botão abaixo ⬇️ <br>
 - 📖 Você pode dar uma olhada no meu curriculo [curriculum](https://github.com/ffaZan/curriculum/blob/main/Felipe_Fazan.pdf) bem aqui :)
 <hr>
-<div style="float: left;">
+
+<div style="float: left;" align="center">
+  <h3>Github Stats:</h3>
 <a href="https://github.com/felipefzn">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipefzn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefzn&layout=compact&langs_count=7&theme=algolia"/>
