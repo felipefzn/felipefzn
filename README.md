@@ -4,7 +4,7 @@
 
 - 🌱 Estou aprendendo mais sobre  *C# e .NET* <br>
 - 📚 Estudo na Universidade _FIAP University_ - localizado em São Paulo, Brasil.
-- 🧠 Também sou Estagiário na [E-Trind](https://etrind.com.br/)
+- 🧠 Também sou Desenvolvedor Júnior na [E-Trind](https://etrind.com.br/)
 - 📫 Como falar comigo: *+55 11 93209-0857* ou tente meu e-mail, no botão abaixo ⬇️ <br>
 - 📖 Você pode dar uma olhada no meu curriculo [curriculum](https://github.com/ffaZan/curriculum/blob/main/Felipe_Fazan.pdf) bem aqui :)
 <hr>
