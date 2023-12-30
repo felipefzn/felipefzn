@@ -4,7 +4,7 @@
 
 .NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, ASP.NET and SQL. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future fullstack developer.
 
-## ⚡️ A Few Quick Facts
+## ⚡️ A Few Quick Facts about me
 * 🌍  I'm based in São Paulo - Brazil
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 * 📚  I'm currently studying at _FIAP University_ - located at São Paulo, Brazil.
