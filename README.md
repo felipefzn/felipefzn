@@ -2,7 +2,7 @@
 <h1>Howdy!, I am <a href="https://github.com/felipefzn">Felipe</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-.NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, ASP.NET and SQL. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future fullstack developer.
+.NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, ASP.NET and SQL. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future backend developer.
 
 ## ⚡️ A Few Quick Facts about me
 * 🌍  I'm based in São Paulo - Brazil
@@ -11,7 +11,7 @@
 * ✉️  You can contact me at +55 11 93209-0857 or try my e-mail at the button bellow ↓
 * 🧠  I'm learning More about ASP.NET MVC and API REST
 * 📖  You can take a look at my [curriculum](https://github.com/ffaZan/curriculum/blob/main/Felipe_Fazan.pdf) right here :)
-* 🦆  Fun fact: I really like music 🎧
+* 🎧  Fun fact: I really like music! 
 
 <hr>
 
