@@ -50,7 +50,7 @@
   <a href="mailto:felipeffazandebrito@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/felipe_fzn/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/felipefazan//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/paque"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/rs2kuqdhcbyl4vgim0qwiao4s"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/fznn"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/f_fznn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
