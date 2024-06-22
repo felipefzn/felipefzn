@@ -2,7 +2,7 @@
 <h1>Howdy!, I am <a href="https://github.com/felipefzn">Felipe</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-.NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, ASP.NET and SQL. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future backend developer.
+.NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, ASP.NET Core MVC and SQL. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future fullstack developer.
 
 ## ⚡️ A Few Quick Facts about me
 * 🌍  I'm based in São Paulo - Brazil
@@ -15,7 +15,7 @@
 
 <hr>
 
-   <details>
+<details>
   <summary><b>:computer: &nbsp;Programming Languages</b></summary>
   <br/>
 
@@ -40,7 +40,7 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=felipefzn&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=felipefzn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefzn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=felipefzn&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl"/>          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefzn&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
