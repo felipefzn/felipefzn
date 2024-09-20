@@ -1,5 +1,5 @@
 <!--<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">-->
-<h1>Howdy!, I am <a href="https://github.com/felipefzn">Felipe</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>Howdy! I am <a href="https://github.com/felipefzn">Felipe</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 .NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, ASP.NET Core MVC, Microsoft Azure and SQL. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future fullstack developer.
