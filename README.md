@@ -2,7 +2,7 @@
 <h1>Howdy! I am <a href="https://github.com/felipefzn">Felipe</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
-.NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, .NET 4.7.2, .NET 6.0, ASP.NET Core MVC, ASP.NET ASPX, Jquery, JavaScript, Microsoft Azure and SQL Server. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future fullstack developer.
+.NET Junior Developer at [E-Trind](https://etrind.com.br/), with experience in C#, .NET 4.7.2, .NET 6.0+, ASP.NET Core MVC, ASP.NET ASPX, Jquery, JavaScript, Microsoft Azure and SQL Server. Active collaborator in development projects, focused on code quality and solution efficiency. Committed to continuous learning and best practices. Seeking challenging opportunities to grow as a future fullstack developer.
 
 ## ⚡️ A Few Quick Facts about me
 * 🌍  I'm based in São Paulo - Brazil
