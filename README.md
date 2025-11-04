@@ -8,9 +8,7 @@
 * 🌍  I'm based in São Paulo - Brazil
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 * 📚  I'm currently studying at _FIAP University_ - located at São Paulo, Brazil.
-* ✉️  You can contact me at +55 11 93209-0857 or try my e-mail at the button bellow ↓
 * 🧠  I'm learning More about ASP.NET MVC and API REST
-* 📖  You can take a look at my [curriculum](https://github.com/ffaZan/curriculum/blob/main/Felipe_Fazan.pdf) right here :)
 * 🎧  Fun fact: I really like music! 
 
 <hr>
